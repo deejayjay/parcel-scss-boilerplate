@@ -4,7 +4,7 @@ This is a boilerplate for web apps built using HTML, CSS/Scss and JavaScript and
 
 ## How to setup the boilerplate?
 
-1. After downloading the contents of the Github repository or cloning it, open the `parcel-scss-boilerplate` folder in VSCode, then run the following command to install all required node dependencies (parcel & sass):
+1. After downloading the contents of the Github repository or forking it, open the `parcel-scss-boilerplate` folder in VSCode, then run the following command to install all required node dependencies (parcel & sass):
 
 ```npm
 npm install
